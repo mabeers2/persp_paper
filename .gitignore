@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Avoid raw data, api keys and scratch work. 
+KEYS.json
+subject_data_raw/
+scratch/
